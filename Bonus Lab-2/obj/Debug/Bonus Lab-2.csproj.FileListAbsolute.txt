@@ -1,0 +1,6 @@
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Lab-2\Bonus Lab-2\bin\Debug\Bonus Lab-2.exe.config
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Lab-2\Bonus Lab-2\bin\Debug\Bonus Lab-2.exe
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Lab-2\Bonus Lab-2\bin\Debug\Bonus Lab-2.pdb
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Lab-2\Bonus Lab-2\obj\Debug\Bonus Lab-2.csprojResolveAssemblyReference.cache
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Lab-2\Bonus Lab-2\obj\Debug\Bonus Lab-2.exe
+c:\users\jacob\documents\visual studio 2015\Projects\Bonus Lab-2\Bonus Lab-2\obj\Debug\Bonus Lab-2.pdb
